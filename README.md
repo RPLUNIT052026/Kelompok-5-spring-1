@@ -28,7 +28,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=TRANSMISI%20DARI%20KELOMPOK%205&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Transmisi"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1500&color=4CC9F0&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=190&lines=%24+Kelompok+5+.....+OHHHHHHH+IYAAAAA+BANGGGGGG." alt="Pesan transmisi"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1500&color=4CC9F0&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=190&lines=%24+Kelompok+5+.....
+  +OHHHHHHH+IYAAAAA+BANGGGGGG." alt="Pesan transmisi"/>
 
 <br/>
 
