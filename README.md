@@ -141,12 +141,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=LEVEL%20SELECT%20&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Peta"/>
 
-![T1](https://img.shields.io/badge/BUMI-Kelompok_terbentuk-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
-![T2](https://img.shields.io/badge/BULAN-Brainstorming_ide-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
-![T3](https://img.shields.io/badge/SATURNUS-Mulai_ngoding-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
-![T4](https://img.shields.io/badge/SABUK_ASTEROID-Bug_bermunculan-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
-![T5](https://img.shields.io/badge/SUPERNOVA-Proyek_jadi-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
-![T6](https://img.shields.io/badge/ANDROMEDA-Proyek_berikutnya-1e0b45?style=for-the-badge&labelColor=05050f)
+![T1](https://img.shields.io/badge/01-Kebutuhan-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
+![T2](https://img.shields.io/badge/02-Rancangan-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
+![T3](https://img.shields.io/badge/03-Codingan-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
+![T4](https://img.shields.io/badge/04-Testing-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
+![T5](https://img.shields.io/badge/05-Rilis-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
+![T6](https://img.shields.io/badge/06-Perawatan-1e0b45?style=for-the-badge&labelColor=05050f)
 
 </div>
 
