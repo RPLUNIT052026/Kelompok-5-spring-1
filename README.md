@@ -61,7 +61,7 @@
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a3a,100:1f5fbf&height=46&section=header&text=PENJAGA&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="PENJAGA"/><br/>
       <a href="https://github.com/USERNAME2"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Penjaga-Saturnus&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Penjaga_Saturnus"/></a><br/>
-      <img src="https://img.shields.io/badge/Nama_Anggota_2-Penjaga_Saturnus-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
+      <img src="https://img.shields.io/badge/Nama_Anggota_2-M_Farhan_Al_Faiz-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
       <img src="https://img.shields.io/badge/JURUS-Frontend-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
       <img src="https://img.shields.io/badge/MOOD-Kreatif_Terus-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
       <img src="https://img.shields.io/badge/LEVEL-99-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
