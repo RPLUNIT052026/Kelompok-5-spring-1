@@ -130,7 +130,7 @@
 
 ![Energi](https://img.shields.io/badge/ENERGI_BINTANG-80%25-1e0b45?style=flat-square&labelColor=05050f)
 ![Perisai](https://img.shields.io/badge/PERISAI-100%25-0b3d2e?style=flat-square&labelColor=05050f)
-![Kopi](https://img.shields.io/badge/KOPI-30%25_(isi_ulang!)-4a0b1a?style=flat-square&labelColor=05050f)
+ 
 
 </div>
 
