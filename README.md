@@ -153,10 +153,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=STATISTIK%20KRU&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Statistik"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=05050f&title_color=8fa8ff&text_color=c9c6f0&icon_color=7b5cff&border_color=1e1b4b&border_radius=16" height="170" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=05050f&title_color=8fa8ff&text_color=c9c6f0&border_color=1e1b4b&border_radius=16" height="170" alt="Top Langs"/>
+ 
 
 <br/>
 
