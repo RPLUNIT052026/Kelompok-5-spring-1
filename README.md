@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=KRU%15PENJELAJAH%20GALAKSI&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Kru"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=KRU%20PENJELAJAH%20GALAKSI&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Kru"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=4CC9F0&background=05050FFF&center=true&vCenter=true&width=760&height=44&lines=%5B+memindai+kru+pesawat...+4+karakter+terdeteksi+%5D" alt="Scan kru"/>
 
