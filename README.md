@@ -3,7 +3,7 @@
   Cara pakai:
   1. Buat repository publik dengan nama SAMA PERSIS dengan username/organisasi GitHub kalian
   2. Simpan file ini sebagai README.md di repo tersebut
-  3. Ganti semua teks [ ... ], USERNAME, dan tulisan bergaris bawah (Nama_Kampus, dll)
+  3. Ganti semua teks [ ... ], USERNAME, dan tulisan bergaris bawah (Universitas_Samudra, dll)
   Catatan: cukup satu file ini saja.
 ============================================================= -->
 
