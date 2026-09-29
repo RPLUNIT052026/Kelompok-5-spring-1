@@ -163,9 +163,7 @@
 
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=HUKUM%20ANTARIKSA%20KELOMPOK%205&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Hukum"/>
-<div align="center">
+ 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=KIRIM%20SINYAL%20KE%20KAMI&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Kontak"/>
 
