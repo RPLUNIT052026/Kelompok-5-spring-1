@@ -4,6 +4,7 @@
   1. Buat repository publik dengan nama SAMA PERSIS dengan username/organisasi GitHub kalian
   2. Simpan file ini sebagai README.md di repo tersebut
   3. Ganti semua teks [ ... ] dan USERNAME
+  (Cukup satu file ini saja, tidak perlu file tambahan)
 ============================================================= -->
 
 <div align="center">
@@ -31,20 +32,15 @@
 
 </div>
 
-```
-      .        *        .       ✦        .     *      .
-   *      .        🌑        .        ✧       .      ✦
-        ✦       .       ___        .        *
-   .        *       _.-'     '-._   .      ✧        .
-        .         .'   ✦   .    '.        .     ✦
-   ✧       ✦     /   .   ( )  ✧   \   *       .
-      .         |  ✦        .  ✦  |      .
-   *      .      \    .  ✧    .  /    ✧       .
-        ✦         '._  ✦   . _.'   .        *
-   .        ✧        '-.___.-'        .      ✦
-```
+<div align="center">
 
-> 🛰️ **Transmisi masuk:** *"Halo, Bumi! Kami Kelompok 5 dari **[Nama Kampus]**. Kami datang dari kedalaman galaksi, membawa banyak kode."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=80&section=header&text=%E2%97%A2%20TRANSMISI%20MASUK%20%E2%97%A3&fontSize=28&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Transmisi masuk"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1500&color=4CC9F0&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=190&lines=%24+menerima+sinyal+dari+galaksi...;Halo%2C+Bumi!+Kami+KELOMPOK+5;dari+%5BNama+Kampus%5D.;Kami+datang+dari+kedalaman+galaksi%2C;membawa+banyak+kode+dan+kopi.+%E2%98%95" alt="Pesan transmisi"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0b45,50:0a0a1f,100:000000&height=50&section=footer&animation=twinkling" width="100%" alt="Batas transmisi"/>
+
+</div>
 
 <div align="center">
 
