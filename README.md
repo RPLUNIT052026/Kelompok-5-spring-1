@@ -123,10 +123,9 @@
 
 [![Bumi](https://img.shields.io/badge/Spring_1-sedang_berjalan-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO1) ![Status](https://img.shields.io/badge/Spring_2-belum_dimulai-0b3d2e?style=for-the-badge&labelColor=05050f)
 
-[![Saturnus](https://img.shields.io/badge/Spring_3-Nama_Proyek_2-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO2) ![Bahan](https://img.shields.io/badge/Python,_MySQL-0a1a3a?style=for-the-badge&labelColor=05050f) ![Status](https://img.shields.io/badge/Spring_4-Belum_dimulai-3d2e0b?style=for-the-badge&labelColor=05050f)
+[![Saturnus](https://img.shields.io/badge/Spring_3-Nama_Proyek_2-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO2) ![Status](https://img.shields.io/badge/Spring_4-Belum_dimulai-3d2e0b?style=for-the-badge&labelColor=05050f)
 
-[![Andromeda](https://img.shields.io/badge/Spring_5-belum_dimulai-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO3) ![Bahan](https://img.shields.io/badge/HTML,_CSS,_JS-0a1a3a?style=for-the-badge&labelColor=05050f) ![Status](https://img.shields.io/badge/STATUS-Masih_Diintai-2a0a3a?style=for-the-badge&labelColor=05050f)
-
+[![Andromeda](https://img.shields.io/badge/Spring_5-belum_dimulai-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO3)
 <br/>
 
 ![Energi](https://img.shields.io/badge/ENERGI_BINTANG-80%25-1e0b45?style=flat-square&labelColor=05050f)
