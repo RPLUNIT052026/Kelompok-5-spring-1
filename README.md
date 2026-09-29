@@ -75,7 +75,7 @@
       <img src="https://img.shields.io/badge/Nim-240504147-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
       <img src="https://img.shields.io/badge/INFORMATIKA-24-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
       <img src="https://img.shields.io/badge/HOBI-PUSH_RANK_IMO-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=YTH.Kesuksesan;Di+tunggu+kehadirannya+saya+sudah+siap!" alt="Kata-kata"/><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=YTH.Kesuksesan+ditunggu+kehadirannya+saya+sudah+siap!" alt="Kata-kata"/><br/>
       <a href="https://github.com/USERNAME3"><img src="https://img.shields.io/badge/GitHub-USERNAME3-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
     </td>
     <td align="center" width="25%">
