@@ -139,7 +139,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=PETA%20PERJALANAN%20GALAKSI&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Peta"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=LEVEL%20SELECT%20&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Peta"/>
 
 ![T1](https://img.shields.io/badge/BUMI-Kelompok_terbentuk-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
 ![T2](https://img.shields.io/badge/BULAN-Brainstorming_ide-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
