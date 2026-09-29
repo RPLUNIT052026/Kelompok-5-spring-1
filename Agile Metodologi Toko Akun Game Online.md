@@ -90,6 +90,7 @@ Jual beli akun game, khususnya **PUBG Mobile** dan **Mobile Legends**, sangat di
 
 ## 7. Anggota Tim
 
-| Nama | NIM | Peran |
-|M Farhan Al|-----|-------|
-| ... | ... | ... |
+| Nama           | NIM      | Peran   |
+|M Farhan Al Faiz|240504135 | Anggota |
+|                |                    |                  
+ 
