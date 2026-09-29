@@ -157,7 +157,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&background=05050f&stroke=1e1b4b&ring=7b5cff&fire=ffe66d&currStreakNum=e8e6ff&sideNums=e8e6ff&currStreakLabel=4cc9f0&sideLabels=c9c6f0&dates=8a87b8&border=1e1b4b&borderRadius=16" alt="Streak"/>
+ 
 
 </div>
 
