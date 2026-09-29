@@ -159,16 +159,7 @@
 </div>
 
 <br/>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=HUKUM%20ANTARIKSA%20KELOMPOK%205&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Hukum"/>
  
-![H1](https://img.shields.io/badge/HUKUM_1-Satu_fitur,_satu_branch._Jangan_tabrakan_di_orbit_main!-0a0a1f?style=for-the-badge&labelColor=1e0b45)<br/>
-![H2](https://img.shields.io/badge/HUKUM_2-Ada_masalah?_Kirim_sinyal_SOS_ke_grup.-0a0a1f?style=for-the-badge&labelColor=1e0b45)<br/>
-![H3](https://img.shields.io/badge/HUKUM_3-Review_dulu,_merge_kemudian,_biar_pesawat_tidak_bocor.-0a0a1f?style=for-the-badge&labelColor=1e0b45)<br/>
-![H4](https://img.shields.io/badge/HUKUM_4-Traktir_pizza_setiap_proyek_berhasil_mendarat.-0a0a1f?style=for-the-badge&labelColor=1e0b45)<br/>
-![H5](https://img.shields.io/badge/HUKUM_5-Penjelajah_wajib_tidur,_bug_juga_butuh_istirahat.-0a0a1f?style=for-the-badge&labelColor=1e0b45)<br/>
-![H6](https://img.shields.io/badge/HUKUM_6-Rayakan_setiap_misi_selesai,_sekecil_apa_pun!-0a0a1f?style=for-the-badge&labelColor=1e0b45)
 
 </div>
 
