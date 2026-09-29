@@ -128,8 +128,8 @@
 [![Andromeda](https://img.shields.io/badge/Spring_5-belum_dimulai-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO3)
 <br/>
 
-![Energi](https://img.shields.io/badge/ENERGI_BINTANG-80%25-1e0b45?style=flat-square&labelColor=05050f)
-![Perisai](https://img.shields.io/badge/PERISAI-100%25-0b3d2e?style=flat-square&labelColor=05050f)
+![Energi](https://img.shields.io/badge/Proses_Berjalan-20%25-1e0b45?style=flat-square&labelColor=05050f)
+![Perisai](https://img.shields.io/badge/Proses_Loading-80%25-0b3d2e?style=flat-square&labelColor=05050f)
  
 
 </div>
