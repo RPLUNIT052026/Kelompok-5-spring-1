@@ -71,20 +71,20 @@
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0a3a,100:8a2be2&height=46&section=header&text=PEMBURU&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="PEMBURU"/><br/>
       <a href="https://github.com/USERNAME3"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Pemburu-Komet&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Pemburu_Komet"/></a><br/>
-      <img src="https://img.shields.io/badge/Nama_Anggota_3-M_Rilky-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
-      <img src="https://img.shields.io/badge/Nim-240504a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
-      <img src="https://img.shields.io/badge/MOOD-Anti_Panik-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
-      <img src="https://img.shields.io/badge/LEVEL-99-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
+      <img src="https://img.shields.io/badge/Nama_Anggota_3-Muhammad_Rilky-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
+      <img src="https://img.shields.io/badge/Nim-240504147-a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
+      <img src="https://img.shields.io/badge/INFORMATIKA-24-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
+      <img src="https://img.shields.io/badge/HOBI-PUSH_RANK_IMO-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=Server+aman,;komet+tertangkap!" alt="Kata-kata"/><br/>
       <a href="https://github.com/USERNAME3"><img src="https://img.shields.io/badge/GitHub-USERNAME3-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
     </td>
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2a3a,100:0fa3b1&height=46&section=header&text=PELUKIS&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="PELUKIS"/><br/>
       <a href="https://github.com/USERNAME4"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Pelukis-Nebula&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Pelukis_Nebula"/></a><br/>
-      <img src="https://img.shields.io/badge/Nama_Anggota_4-Pelukis_Nebula-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
-      <img src="https://img.shields.io/badge/JURUS-UI/UX_%26_Dokumen-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
-      <img src="https://img.shields.io/badge/MOOD-Estetik_Banget-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
-      <img src="https://img.shields.io/badge/LEVEL-99-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
+      <img src="https://img.shields.io/badge/Nama_Anggota_4-Rafi_Nauval_Abiyu-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
+      <img src="https://img.shields.io/badge/Nim-250504024-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
+      <img src="https://img.shields.io/badge/INFORMATIKA-25-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
+      <img src="https://img.shields.io/badge/HOBI-Cari_Hobi-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=Warna+galaksi;itu+gratis!" alt="Kata-kata"/><br/>
       <a href="https://github.com/USERNAME4"><img src="https://img.shields.io/badge/GitHub-USERNAME4-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
     </td>
