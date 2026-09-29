@@ -3,9 +3,9 @@
   Cara pakai:
   1. Buat repository publik dengan nama SAMA PERSIS dengan username/organisasi GitHub kalian
   2. Simpan file ini sebagai README.md di repo tersebut
-  3. Ganti username GitHub jika sudah tersedia
+  3. Ganti semua teks [ ... ], USERNAME, dan tulisan bergaris bawah (Nama_Kampus, dll)
   Catatan: cukup satu file ini saja.
-============================================================ -->
+============================================================= -->
 
 <div align="center">
 
@@ -28,12 +28,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=TRANSMISI%20DARI%20KELOMPOK%205&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Transmisi"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1500&color=4CC9F0&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=190&lines=%24+menerima+sinyal+dari+galaksi...;Halo%2C+Bumi!+Kami+KELOMPOK+5;dari+Universitas+Samudra.;Kami+datang+dari+kedalaman+galaksi%2C;membawa+banyak+kode+dan+kopi." alt="Pesan transmisi"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1500&color=4CC9F0&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=190&lines=%24+menerima+sinyal+dari+galaksi...;Halo%2C+Bumi!+Kami+KELOMPOK+5;dari+%5BNama+Kampus%5D.;Kami+datang+dari+kedalaman+galaksi%2C;membawa+banyak+kode+dan+kopi." alt="Pesan transmisi"/>
 
 <br/>
 
-![Planet Asal](https://img.shields.io/badge/PLANET_ASAL-Universitas_Samudra-1e0b45?style=for-the-badge&labelColor=05050f)
-![Misi Utama](https://img.shields.io/badge/MISI_UTAMA-Rekayasa_Perangkat_Lunak-0a1a3a?style=for-the-badge&labelColor=05050f)
+![Planet Asal](https://img.shields.io/badge/PLANET_ASAL-Nama_Kampus-1e0b45?style=for-the-badge&labelColor=05050f)
+![Misi Utama](https://img.shields.io/badge/MISI_UTAMA-Mata_Kuliah_/_Proyek-0a1a3a?style=for-the-badge&labelColor=05050f)
 ![Tujuan](https://img.shields.io/badge/TUJUAN-Mendarat_di_nilai_A!-2a0a3a?style=for-the-badge&labelColor=05050f)
 
 </div>
@@ -46,59 +46,52 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=4CC9F0&background=05050FFF&center=true&vCenter=true&width=760&height=44&lines=%5B+memindai+kru+pesawat...+4+karakter+terdeteksi+%5D" alt="Scan kru"/>
 
-<br/>
-
 <table>
   <tr>
-
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0b45,100:4a2bb5&height=46&section=header&text=KOMANDAN&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="KOMANDAN"/><br/>
-      <a href="#"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Komandan-Bintang&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter M Farhan Al Faiz"/></a><br/>
-      <img src="https://img.shields.io/badge/Nama_Anggota_1-M_Farhan_Al_Faiz-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
+      <a href="https://github.com/USERNAME1"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Komandan-Bintang&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Komandan_Bintang"/></a><br/>
+      <img src="https://img.shields.io/badge/Nama_Anggota_1-Komandan_Bintang-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
       <img src="https://img.shields.io/badge/JURUS-Planning-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
       <img src="https://img.shields.io/badge/MOOD-Selalu_Tenang-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
       <img src="https://img.shields.io/badge/LEVEL-99-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=Peluncuran+dalam;3...+2...+1..." alt="Kata-kata"/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-USERNAME1-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
+      <a href="https://github.com/USERNAME1"><img src="https://img.shields.io/badge/GitHub-USERNAME1-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
     </td>
-
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a3a,100:1f5fbf&height=46&section=header&text=PENJAGA&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="PENJAGA"/><br/>
-      <a href="#"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Penjaga-Saturnus&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Muhammad Yuda Buana Ambia"/></a><br/>
-      <img src="https://img.shields.io/badge/Nama_Anggota_2-Muhammad_Yuda_Buana_Ambia-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
+      <a href="https://github.com/USERNAME2"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Penjaga-Saturnus&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Penjaga_Saturnus"/></a><br/>
+      <img src="https://img.shields.io/badge/Nama_Anggota_2-Penjaga_Saturnus-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
       <img src="https://img.shields.io/badge/JURUS-Frontend-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
       <img src="https://img.shields.io/badge/MOOD-Kreatif_Terus-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
       <img src="https://img.shields.io/badge/LEVEL-99-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=Semua+tampil;cantik+di+layar!" alt="Kata-kata"/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-USERNAME2-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
+      <a href="https://github.com/USERNAME2"><img src="https://img.shields.io/badge/GitHub-USERNAME2-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
     </td>
-
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0a3a,100:8a2be2&height=46&section=header&text=PEMBURU&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="PEMBURU"/><br/>
-      <a href="#"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Pemburu-Komet&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Muhammad Rilky"/></a><br/>
-      <img src="https://img.shields.io/badge/Nama_Anggota_3-Muhammad_Rilky-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
+      <a href="https://github.com/USERNAME3"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Pemburu-Komet&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Pemburu_Komet"/></a><br/>
+      <img src="https://img.shields.io/badge/Nama_Anggota_3-Pemburu_Komet-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
       <img src="https://img.shields.io/badge/JURUS-Backend-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
       <img src="https://img.shields.io/badge/MOOD-Anti_Panik-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
       <img src="https://img.shields.io/badge/LEVEL-99-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=Server+aman,;komet+tertangkap!" alt="Kata-kata"/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-USERNAME3-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
+      <a href="https://github.com/USERNAME3"><img src="https://img.shields.io/badge/GitHub-USERNAME3-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
     </td>
-
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2a3a,100:0fa3b1&height=46&section=header&text=PELUKIS&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="PELUKIS"/><br/>
-      <a href="#"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Pelukis-Nebula&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Raffi"/></a><br/>
-      <img src="https://img.shields.io/badge/Nama_Anggota_4-Raffi-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
+      <a href="https://github.com/USERNAME4"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Pelukis-Nebula&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Pelukis_Nebula"/></a><br/>
+      <img src="https://img.shields.io/badge/Nama_Anggota_4-Pelukis_Nebula-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
       <img src="https://img.shields.io/badge/JURUS-UI/UX_%26_Dokumen-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
       <img src="https://img.shields.io/badge/MOOD-Estetik_Banget-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
       <img src="https://img.shields.io/badge/LEVEL-99-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=Warna+galaksi;itu+gratis!" alt="Kata-kata"/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-USERNAME4-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
+      <a href="https://github.com/USERNAME4"><img src="https://img.shields.io/badge/GitHub-USERNAME4-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
     </td>
-
   </tr>
 </table>
 
-<sub>Ingin ganti wajah kartunnya? Ubah kata setelah <code>seed=</code> di link gambar karakter.</sub>
+<sub>Ingin ganti wajah kartunnya? Ubah kata setelah <code>seed=</code> di link gambar karakter (misal pakai nama sendiri), dan karakternya akan berubah otomatis.</sub>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1400&color=C9C6F0&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=150&lines=Komandan%3A+Peluncuran+dalam+3...+2...+1...;Penjaga+Saturnus%3A+Tombol+submit+hilang+ditelan+lubang+hitam!;Pemburu+Komet%3A+Server+meledak+seperti+supernova.;Pelukis+Nebula%3A+Tenang%2C+backup+ada+di+ujung+galaksi." alt="Dialog kru"/>
 
@@ -128,9 +121,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=MISI%20YANG%20SEDANG%20BERJALAN&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Misi"/>
 
-[![Bumi](https://img.shields.io/badge/BUMI-Toko_Akun_Game_Online-1e0b45?style=for-the-badge&labelColor=05050f)](#)
-![Bahan](https://img.shields.io/badge/Rekayasa_Perangkat_Lunak-0a1a3a?style=for-the-badge&labelColor=05050f)
-![Status](https://img.shields.io/badge/STATUS-Dalam_Perjalanan-0b3d2e?style=for-the-badge&labelColor=05050f)
+[![Bumi](https://img.shields.io/badge/BUMI-Nama_Proyek_1-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO1) ![Bahan](https://img.shields.io/badge/React,_Node.js-0a1a3a?style=for-the-badge&labelColor=05050f) ![Status](https://img.shields.io/badge/STATUS-Mendarat-0b3d2e?style=for-the-badge&labelColor=05050f)
+
+[![Saturnus](https://img.shields.io/badge/SATURNUS-Nama_Proyek_2-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO2) ![Bahan](https://img.shields.io/badge/Python,_MySQL-0a1a3a?style=for-the-badge&labelColor=05050f) ![Status](https://img.shields.io/badge/STATUS-Dalam_Perjalanan-3d2e0b?style=for-the-badge&labelColor=05050f)
+
+[![Andromeda](https://img.shields.io/badge/ANDROMEDA-Nama_Proyek_3-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO3) ![Bahan](https://img.shields.io/badge/HTML,_CSS,_JS-0a1a3a?style=for-the-badge&labelColor=05050f) ![Status](https://img.shields.io/badge/STATUS-Masih_Diintai-2a0a3a?style=for-the-badge&labelColor=05050f)
 
 <br/>
 
@@ -146,12 +141,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=PETA%20PERJALANAN%20GALAKSI&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Peta"/>
 
-![T1](https://img.shields.io/badge/T1-BUMI-Kelompok_terbentuk-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
-![T2](https://img.shields.io/badge/T2-BULAN-Brainstorming_ide-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
-![T3](https://img.shields.io/badge/T3-SATURNUS-Mulai_ngoding-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
-![T4](https://img.shields.io/badge/T4-SABUK_ASTEROID-Bug_bermunculan-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
-![T5](https://img.shields.io/badge/T5-SUPERNOVA-Proyek_jadi-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
-![T6](https://img.shields.io/badge/T6-ANDROMEDA-Proyek_berikutnya-1e0b45?style=for-the-badge&labelColor=05050f)
+![T1](https://img.shields.io/badge/BUMI-Kelompok_terbentuk-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
+![T2](https://img.shields.io/badge/BULAN-Brainstorming_ide-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
+![T3](https://img.shields.io/badge/SATURNUS-Mulai_ngoding-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
+![T4](https://img.shields.io/badge/SABUK_ASTEROID-Bug_bermunculan-1e0b45?style=for-the-badge&labelColor=05050f)<br/>
+![T5](https://img.shields.io/badge/SUPERNOVA-Proyek_jadi-0a1a3a?style=for-the-badge&labelColor=05050f)<br/>
+![T6](https://img.shields.io/badge/ANDROMEDA-Proyek_berikutnya-1e0b45?style=for-the-badge&labelColor=05050f)
 
 </div>
 
@@ -162,7 +157,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=STATISTIK%20KRU&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Statistik"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=05050f&title_color=8fa8ff&text_color=c9c6f0&icon_color=7b5cff&border_color=1e1b4b&border_radius=16" height="170" alt="Stats"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=05050f&title_color=8fa8ff&text_color=c9c6f0&border_color=1e1b4b&border_radius=16" height="170" alt="Top Langs"/>
 
 <br/>
@@ -192,10 +186,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=KIRIM%20SINYAL%20KE%20KAMI&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Kontak"/>
 
-[![Email](https://img.shields.io/badge/Email-0a0a1f?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=05050f)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a1f?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=05050f)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1f?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=05050f)](#)
-[![Discord](https://img.shields.io/badge/Discord-0a0a1f?style=for-the-badge&logo=discord&logoColor=5865f2&labelColor=05050f)](#)
+[![Email](https://img.shields.io/badge/Email-0a0a1f?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=05050f)](mailto:emailkelompok5@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a1f?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=05050f)](https://instagram.com/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1f?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=05050f)](https://linkedin.com/in/USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-0a0a1f?style=for-the-badge&logo=discord&logoColor=5865f2&labelColor=05050f)](https://discord.gg/INVITE)
+
+<br/>
+
+![Pengunjung](https://komarev.com/ghpvc/?username=USERNAME&label=Sinyal+Masuk&color=1e0b45&style=for-the-badge)
 
 <br/>
 
