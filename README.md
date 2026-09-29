@@ -33,7 +33,7 @@
 <br/>
 
 ![Planet Asal](https://img.shields.io/badge/KOLA-BORASI-1e0b45?style=for-the-badge&labelColor=05050f)
-![Misi Utama](https://img.shields.io/badge/MISI_UTAMA-Mata_Kuliah_/_Proyek-0a1a3a?style=for-the-badge&labelColor=05050f)
+![Misi Utama](https://img.shields.io/badge/KREATI-VITAS_/_Proyek-0a1a3a?style=for-the-badge&labelColor=05050f)
 ![Tujuan](https://img.shields.io/badge/TUJUAN-Mendarat_di_nilai_A!-2a0a3a?style=for-the-badge&labelColor=05050f)
 
 </div>
