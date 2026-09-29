@@ -178,7 +178,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=2000&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=%22Tetaplah+Berusaha+Keras+Karena+Suatu%2C;Hari+Kau+Akan+Menyerah.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=2000&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=%22Tetaplah+Berusaha+Keras+Karena+Suatu+Hari+Kau+Akan+Menyerah.%22" alt="Quote"/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:0a0a1f,100:1e0b45&height=110&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
