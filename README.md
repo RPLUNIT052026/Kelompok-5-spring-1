@@ -51,7 +51,7 @@
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0b45,100:4a2bb5&height=46&section=header&text=KOMANDAN&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="KOMANDAN"/><br/>
       <a href="https://github.com/USERNAME1"><img src="https://api.dicebear.com/9.x/bottts/svg?seed=Komandan-Bintang&backgroundColor=05050f,0a0a1f,1e0b45&radius=50&scale=90" width="130" alt="Karakter Komandan_Bintang"/></a><br/>
-      <img src="https://img.shields.io/badge/Nama_Anggota_1-Komandan_Bintang-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
+      <img src="https://img.shields.io/badge/Nama_Anggota_1-Muhammad_Yuda_B_A-1e0b45?style=flat-square&labelColor=05050f" alt="Nama"/><br/>
       <img src="https://img.shields.io/badge/JURUS-Planning-0a1a3a?style=flat-square&labelColor=05050f" alt="Jurus"/><br/>
       <img src="https://img.shields.io/badge/MOOD-Selalu_Tenang-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
       <img src="https://img.shields.io/badge/LEVEL-99-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
