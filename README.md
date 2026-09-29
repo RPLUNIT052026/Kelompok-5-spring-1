@@ -17,8 +17,8 @@
 
 ![Kru](https://img.shields.io/badge/MK-RPL-1e0b45?style=for-the-badge&labelColor=05050f)
 ![Energi](https://img.shields.io/badge/Dosen-Cut_Alna_Fadhilla-0a1a3a?style=for-the-badge&labelColor=05050f)
-![Misi](https://img.shields.io/badge/MISI-JELAJAHI_GALAKSI-2a0a3a?style=for-the-badge&labelColor=05050f)
-![Gravitasi](https://img.shields.io/badge/GRAVITASI-NOL-1a1a2e?style=for-the-badge&labelColor=05050f)
+![Misi](https://img.shields.io/badge/KLMPK-05-2a0a3a?style=for-the-badge&labelColor=05050f)
+![Gravitasi](https://img.shields.io/badge/Member-04-1a1a2e?style=for-the-badge&labelColor=05050f)
 
 </div>
 
