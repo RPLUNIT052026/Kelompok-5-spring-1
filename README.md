@@ -121,7 +121,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a1f,100:1e0b45&height=60&section=header&text=MISI%20YANG%20SEDANG%20BERJALAN&fontSize=24&fontColor=8fa8ff&fontAlignY=55&animation=twinkling" width="100%" alt="Misi"/>
 
-[![Bumi](https://img.shields.io/badge/BUMI-Nama_Proyek_1-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO1) ![Bahan](https://img.shields.io/badge/React,_Node.js-0a1a3a?style=for-the-badge&labelColor=05050f) ![Status](https://img.shields.io/badge/STATUS-Mendarat-0b3d2e?style=for-the-badge&labelColor=05050f)
+[![Bumi](https://img.shields.io/badge/Spring_1-sedang_berjalan-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO1) ![Bahan](https://img.shields.io/badge/React,_Node.js-0a1a3a?style=for-the-badge&labelColor=05050f) ![Status](https://img.shields.io/badge/STATUS-Mendarat-0b3d2e?style=for-the-badge&labelColor=05050f)
 
 [![Saturnus](https://img.shields.io/badge/SATURNUS-Nama_Proyek_2-1e0b45?style=for-the-badge&labelColor=05050f)](https://github.com/USERNAME/REPO2) ![Bahan](https://img.shields.io/badge/Python,_MySQL-0a1a3a?style=for-the-badge&labelColor=05050f) ![Status](https://img.shields.io/badge/STATUS-Dalam_Perjalanan-3d2e0b?style=for-the-badge&labelColor=05050f)
 
