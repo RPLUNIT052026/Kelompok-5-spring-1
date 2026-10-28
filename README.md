@@ -56,7 +56,7 @@
       <img src="https://img.shields.io/badge/INFORMATIKA-24-2a0a3a?style=flat-square&labelColor=05050f" alt="Mood"/><br/>
       <img src="https://img.shields.io/badge/HOBI-Tidur_&_Nonton_Emyu-0b3d2e?style=flat-square&labelColor=05050f" alt="Level"/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2600&pause=1200&color=8FA8FF&background=05050FFF&center=true&vCenter=true&multiline=true&repeat=true&width=200&height=54&lines=Peluncuran+dalam;3...+2...+1..." alt="Kata-kata"/><br/>
-      <a href="https://github.com/USERNAME1"><img src="https://img.shields.io/badge/GitHub-USERNAME1-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
+      <a href="https://github.com/yuhuu"><img src="https://img.shields.io/badge/GitHub-USERNAME1-0a0a1f?style=flat-square&logo=github&logoColor=white&labelColor=05050f" alt="GitHub"/></a>
     </td>
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a3a,100:1f5fbf&height=46&section=header&text=PENJAGA&fontSize=18&fontColor=ffffff&fontAlignY=58&animation=twinkling" width="100%" alt="PENJAGA"/><br/>
