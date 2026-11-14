@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Login - Toko Game Online</title>
+</head>
+<body>
+
+<h1>Toko Game Online</h1>
+<hr>
+
+<div id="viewLogin">
+  <h2>Login</h2>
+  <form id="formLogin">
+    Username:<br>
+    <input type="text" id="user" required><br><br>
+    Password:<br>
+    <input type="password" id="pass" required><br><br>
+    <button type="submit">Login</button>
+  </form>
+  <p id="pesan"></p>
+  <p>Akun contoh: username <b>admin</b>, password <b>admin123</b></p>
+</div>
+
+<div id="viewAkun" hidden>
+  <h2>Selamat datang, <span id="namaUser"></span>!</h2>
+  <p>Kamu berhasil login.</p>
+  <button type="button" id="btnLogout">Logout</button>
+</div>
+
+<hr>
+<p>&copy; 2026 Toko Game Online</p>
+
+<script>
+  var AKUN = [
+    { nama: "Admin", username: "admin", password: "admin123" },
+    { nama: "Pembeli", username: "user", password: "user123" }
+  ];
+
+  var vLogin = document.getElementById("viewLogin");
+  var vAkun = document.getElementById("viewAkun");
