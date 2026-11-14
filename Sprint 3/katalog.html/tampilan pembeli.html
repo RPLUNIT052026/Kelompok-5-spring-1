@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GameVault - Katalog</title>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 24px;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    color: #222;
+}
+
+.page {
+    max-width: 1000px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+/* Header */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 24px;
+    border-bottom: 1px solid #ccc;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
+.brand {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.menu a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #555;
+    padding-bottom: 6px;
+}
+
+.menu a.aktif {
+    color: #000;
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.ikon {
+    width: 18px;
+    height: 18px;
+    border: 2px solid #777;
+    border-radius: 50%;
+}
+
+/* Toolbar */
+.toolbar {
+    display: flex;
+    gap: 12px;
+    padding: 16px 24px;
+}
+
+.toolbar input {
+    flex: 1;
+    padding: 11px 14px;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+}
+
+.toolbar select {
+    padding: 11px 14px;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    background: #fff;
+}
+
+/* Isi */
+.isi {
+    display: flex;
+    border-top: 1px solid #ccc;
+}
+
+.sidebar {
+    width: 190px;
+    padding: 18px 16px;
+    border-right: 1px solid #ccc;
+}
+
+.side-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 18px;
+}
+
+.side-ikon {
+    width: 16px;
+    height: 16px;
+    background: #bbb;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
+
+.bar {
+    height: 10px;
+    background: #ddd;
+    border-radius: 4px;
+}
+
+.konten {
+    flex: 1;
+    padding: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+}
+
+.kartu {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.gambar {
+    height: 90px;
+    background: #e5e5e5;
+    border-radius: 6px;
+    margin-bottom: 14px;
+}
+
+.kartu .bar {
+    margin-bottom: 8px;
+}
+
+.w60 { width: 60%; }
+.w40 { width: 40%; }
+.w50 { width: 50%; }
+
+/* Tombol Detail */
+.kartu .btn-detail {
+    display: block;
+    width: 100%;
+    margin-top: 8px;
+    padding: 7px;
+    border: 1px solid #ccc;
+    background: #f2f2f2;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #222;
+    font-size: 13px;
+    transition: 0.2s;
+}
+
+.kartu .btn-detail:hover {
+    background: #ddd;
+}
+
+/* Pagination */
+.paging {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-top: 24px;
+}
+
+.paging a {
+    padding: 6px 11px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    text-decoration: none;
+    color: #333;
+    font-size: 13px;
+}
+
+.paging a.aktif {
+    border-color: #000;
+    font-weight: bold;
+}
+
+/* Responsive */
+@media (max-width: 720px) {
+    .isi {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+    }
+
+    .toolbar {
+        flex-wrap: wrap;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="page">
+
+    <!-- Header -->
+    <div class="header">
+        <div class="header-left">
+
+            <div class="brand">GameVault</div>
+
+            <div class="menu">
+                <a href="katalog.php" class="aktif">Katalog</a>
+                <a href="riwayat.php">Riwayat</a>
+            </div>
+
+        </div>
+
+        <div class="header-right">
+            <div class="ikon"></div>
+            <div class="ikon"></div>
+            <a href="logout.php">Logout</a>
+        </div>
+    </div>
+
+    <!-- Toolbar -->
+    <div class="toolbar">
+
+        <input type="text" placeholder="Cari akun game...">
+
+        <select>
+            <option>Game</option>
+            <option>Mobile Legends</option>
+            <option>Free Fire</option>
+            <option>PUBG Mobile</option>
+            <option>Genshin Impact</option>
+            <option>Valorant</option>
+            <option>Roblox</option>
+        </select>
+
+        <select>
+            <option>Harga</option>
+            <option>Termurah</option>
+            <option>Termahal</option>
+        </select>
+
+        <select>
+            <option>Urutkan</option>
+            <option>Terbaru</option>
+            <option>Terlama</option>
+        </select>
+
+    </div>
+
+    <!-- Isi -->
+    <div class="isi">
+
+        <!-- Sidebar -->
+        <div class="sidebar">
+
+            <div class="side-item">
+                <div class="side-ikon"></div>
+                <div class="bar" style="width:80px"></div>
+            </div>
+
+            <div class="side-item">
+                <div class="side-ikon"></div>
+                <div class="bar" style="width:90px"></div>
+            </div>
+
+            <div class="side-item">
+                <div class="side-ikon"></div>
+                <div class="bar" style="width:70px"></div>
+            </div>
+
+            <div class="side-item">
+                <div class="side-ikon"></div>
+                <div class="bar" style="width:60px"></div>
+            </div>
+
+            <div class="side-item">
+                <div class="side-ikon"></div>
+                <div class="bar" style="width:85px"></div>
+            </div>
+
+            <div class="side-item">
+                <div class="side-ikon"></div>
+                <div class="bar" style="width:65px"></div>
+            </div>
+
+            <div class="side-item">
+                <div class="side-ikon"></div>
+                <div class="bar" style="width:55px"></div>
+            </div>
+
+        </div>
+
+        <!-- Konten Katalog -->
+        <div class="konten">
+
+            <div class="grid">
+
+                <!-- Produk 1 -->
+                <div class="kartu">
+                    <div class="gambar"></div>
+                    <div class="bar w60"></div>
+                    <div class="bar w40"></div>
+                    <div class="bar w50"></div>
+                    <a href="detail.php?id=1" class="btn-detail">
+                        Detail
+                    </a>
+                </div>
+
+                <!-- Produk 2 -->
+                <div class="kartu">
+                    <div class="gambar"></div>
+                    <div class="bar w60"></div>
+                    <div class="bar w40"></div>
+                    <div class="bar w50"></div>
+                    <a href="detail.php?id=2" class="btn-detail">
+                        Detail
+                    </a>
+                </div>
+
+                <!-- Produk 3 -->
+                <div class="kartu">
+                    <div class="gambar"></div>
+                    <div class="bar w60"></div>
+                    <div class="bar w40"></div>
+                    <div class="bar w50"></div>
+                    <a href="detail.php?id=3" class="btn-detail">
+                        Detail
+                    </a>
+                </div>
+
+                <!-- Produk 4 -->
+                <div class="kartu">
+                    <div class="gambar"></div>
+                    <div class="bar w60"></div>
+                    <div class="bar w40"></div>
+                    <div class="bar w50"></div>
+                    <a href="detail.php?id=4" class="btn-detail">
+                        Detail
+                    </a>
+                </div>
+
+                <!-- Produk 5 -->
+                <div class="kartu">
+                    <div class="gambar"></div>
+                    <div class="bar w60"></div>
+                    <div class="bar w40"></div>
+                    <div class="bar w50"></div>
+                    <a href="detail.php?id=5" class="btn-detail">
+                        Detail
+                    </a>
+                </div>
+
+                <!-- Produk 6 -->
+                <div class="kartu">
+                    <div class="gambar"></div>
+                    <div class="bar w60"></div>
+                    <div class="bar w40"></div>
+                    <div class="bar w50"></div>
+                    <a href="detail.php?id=6" class="btn-detail">
+                        Detail
+                    </a>
+                </div>
+
+            </div>
+
+            <!-- Pagination -->
+            <div class="paging">
+
+                <a href="#">&lt;</a>
+                <a href="#" class="aktif">1</a>
+                <a href="#">2</a>
+                <a href="#">3</a>
+                <a href="#">4</a>
+                <a href="#">5</a>
+                <a href="#">&gt;</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GameVault - Admin</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 24px; font-family: Arial, sans-serif; background: #f2f2f2; color: #222; }
+  .page { max-width: 1000px; margin: 0 auto; background: #fff; border: 1px solid #ccc; border-radius: 10px; }
+
+  /* Header */
+  .header { display: flex; align-items: center; justify-content: space-between; padding: 14px 24px; border-bottom: 1px solid #ccc; }
+  .header-left { display: flex; align-items: center; gap: 36px; }
+  .brand { font-weight: bold; font-size: 20px; }
+  .header-right { display: flex; align-items: center; gap: 16px; }
+  .header-right a { text-decoration: none; color: #222; }
+  .ikon { width: 18px; height: 18px; border: 2px solid #777; border-radius: 50%; }
+
+  /* Isi */
+  .isi { display: flex; min-height: 560px; }
+  .sidebar { width: 190px; padding: 18px 16px; border-right: 1px solid #ccc; }
+  .side-item { display: flex; align-items: center; gap: 10px; margin-bottom: 18px; }
+  .side-item.aktif { background: #eee; border-radius: 6px; padding: 6px 8px; margin-left: -8px; }
+  .side-ikon { width: 16px; height: 16px; background: #bbb; border-radius: 3px; flex-shrink: 0; }
+  .bar { height: 10px; background: #ddd; border-radius: 4px; }
+
+  .konten { flex: 1; padding: 22px; min-width: 0; }
+  .judul { width: 160px; height: 16px; margin-bottom: 20px; }
+
+  /* Statistik */
+  .stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 22px; }
+  .stat { border: 1px solid #ccc; border-radius: 8px; padding: 14px; }
+  .stat .bar { margin-bottom: 12px; }
+  .stat .besar { height: 20px; width: 55%; margin-bottom: 0; }
+
+  /* Grafik + aktivitas */
+  .dua { display: grid; grid-template-columns: 1.6fr 1fr; gap: 16px; margin-bottom: 26px; }
+  .kotak { border: 1px solid #ccc; border-radius: 8px; padding: 14px; }
+  .kotak .bar.judul-kecil { width: 90px; margin-bottom: 14px; }
+  .grafik { height: 170px; background: #e5e5e5; border-radius: 6px; }
+  .aktivitas { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .avatar { width: 28px; height: 28px; background: #ddd; border-radius: 50%; flex-shrink: 0; }
+  .aktivitas .teks { flex: 1; }
+  .aktivitas .teks .bar { margin-bottom: 6px; }
+
+  /* Toolbar tabel */
+  .tools { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 14px; flex-wrap: wrap; }
+  .tools-kiri { display: flex; gap: 10px; flex: 1; }
+  .cari { flex: 1; max-width: 300px; height: 38px; border: 1px solid #bbb; border-radius: 8px; }
+  .filter { width: 100px; height: 38px; border: 1px solid #bbb; border-radius: 8px; background: #fff; }
+  .tombol { width: 110px; height: 38px; border: 1px solid #ccc; background: #f2f2f2; border-radius: 6px; }
+
+  /* Tabel */
+  .tabel-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { border: 1px solid #ccc; padding: 12px 10px; }
+  th { background: #f2f2f2; }
+  td .bar { margin: 0; }
+  .w30 { width: 30px; } .w50 { width: 50px; } .w60 { width: 60%; } .w70 { width: 70%; } .w80 { width: 80%; }
+  .lencana { width: 64px; height: 20px; border: 1px solid #bbb; border-radius: 12px; background: #f2f2f2; }
+  .aksi { display: flex; gap: 6px; }
+  .aksi .tombol-kecil { width: 46px; height: 24px; border: 1px solid #ccc; background: #f2f2f2; border-radius: 5px; }
+
+  /* Pagination */
+  .paging { display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 24px; }
+  .paging a { padding: 6px 11px; border: 1px solid #ccc; border-radius: 50%; text-decoration: none; color: #333; font-size: 13px; }
+  .paging a.aktif { border-color: #000; font-weight: bold; }
+
+  @media (max-width: 800px) {
+    .stat-grid { grid-template-columns: repeat(2, 1fr); }
+    .dua { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 720px) {
+    .isi { flex-direction: column; }
+    .sidebar { width: 100%; border-right: none; border-bottom: 1px solid #ccc; }
+    .stat-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <div class="header">
+    <div class="header-left">
+      <div class="brand">GameVault</div>
+      <div class="bar" style="width:70px"></div>
+    </div>
+    <div class="header-right">
+      <div class="ikon"></div>
+      <div class="ikon"></div>
+      <a href="#">Logout</a>
+    </div>
+  </div>
+
+  <div class="isi">
+
+    <div class="sidebar">
+      <div class="side-item aktif"><div class="side-ikon"></div><div class="bar" style="width:80px"></div></div>
+      <div class="side-item"><div class="side-ikon"></div><div class="bar" style="width:90px"></div></div>
+      <div class="side-item"><div class="side-ikon"></div><div class="bar" style="width:70px"></div></div>
+      <div class="side-item"><div class="side-ikon"></div><div class="bar" style="width:85px"></div></div>
+      <div class="side-item"><div class="side-ikon"></div><div class="bar" style="width:65px"></div></div>
+      <div class="side-item"><div class="side-ikon"></div><div class="bar" style="width:75px"></div></div>
+    </div>
+
+    <div class="konten">
+
+      <div class="bar judul"></div>
+
+      <div class="stat-grid">
+        <div class="stat"><div class="bar w60"></div><div class="bar besar"></div></div>
+        <div class="stat"><div class="bar w60"></div><div class="bar besar"></div></div>
+        <div class="stat"><div class="bar w60"></div><div class="bar besar"></div></div>
+        <div class="stat"><div class="bar w60"></div><div class="bar besar"></div></div>
+      </div>
+
+      <div class="dua">
+        <div class="kotak">
+          <div class="bar judul-kecil"></div>
+          <div class="grafik"></div>
+        </div>
+        <div class="kotak">
+          <div class="bar judul-kecil"></div>
+          <div class="aktivitas"><div class="avatar"></div><div class="teks"><div class="bar w80"></div><div class="bar w50"></div></div></div>
+          <div class="aktivitas"><div class="avatar"></div><div class="teks"><div class="bar w80"></div><div class="bar w50"></div></div></div>
+          <div class="aktivitas"><div class="avatar"></div><div class="teks"><div class="bar w80"></div><div class="bar w50"></div></div></div>
+          <div class="aktivitas"><div class="avatar"></div><div class="teks"><div class="bar w80"></div><div class="bar w50"></div></div></div>
+        </div>
+      </div>
+
+      <div class="tools">
+        <div class="tools-kiri">
+          <div class="cari"></div>
+          <div class="filter"></div>
+        </div>
+        <div class="tombol"></div>
+      </div>
+
+      <div class="tabel-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th><div class="bar w30"></div></th>
+              <th><div class="bar w70"></div></th>
+              <th><div class="bar w70"></div></th>
+              <th><div class="bar w60"></div></th>
+              <th><div class="bar w60"></div></th>
+              <th><div class="bar w50"></div></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><div class="bar w30"></div></td>
+              <td><div class="bar w80"></div></td>
+              <td><div class="bar w60"></div></td>
+              <td><div class="bar w70"></div></td>
+              <td><div class="lencana"></div></td>
+              <td><div class="aksi"><div class="tombol-kecil"></div><div class="tombol-kecil"></div></div></td>
+            </tr>
+            <tr>
+              <td><div class="bar w30"></div></td>
+              <td><div class="bar w80"></div></td>
+              <td><div class="bar w60"></div></td>
+              <td><div class="bar w70"></div></td>
+              <td><div class="lencana"></div></td>
+              <td><div class="aksi"><div class="tombol-kecil"></div><div class="tombol-kecil"></div></div></td>
+            </tr>
+            <tr>
+              <td><div class="bar w30"></div></td>
+              <td><div class="bar w80"></div></td>
+              <td><div class="bar w60"></div></td>
+              <td><div class="bar w70"></div></td>
+              <td><div class="lencana"></div></td>
+              <td><div class="aksi"><div class="tombol-kecil"></div><div class="tombol-kecil"></div></div></td>
+            </tr>
+            <tr>
+              <td><div class="bar w30"></div></td>
+              <td><div class="bar w80"></div></td>
+              <td><div class="bar w60"></div></td>
+              <td><div class="bar w70"></div></td>
+              <td><div class="lencana"></div></td>
+              <td><div class="aksi"><div class="tombol-kecil"></div><div class="tombol-kecil"></div></div></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="paging">
+        <a href="#">&lt;</a>
+        <a href="#" class="aktif">1</a>
+        <a href="#">2</a>
+        <a href="#">3</a>
+        <a href="#">&gt;</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
