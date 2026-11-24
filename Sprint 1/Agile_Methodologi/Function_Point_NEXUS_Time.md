@@ -86,9 +86,9 @@ Target kerja spesifik yang harus diselesaikan pada Sprint 1 (bukan development f
 
 | Task | Deskripsi | Penanggung Jawab |
 |------|-----------|-------------------|
-| Project Charter | Menyusun latar belakang, tujuan, ruang lingkup (jam tangan pria & wanita, digital twin per unit), struktur tim | Ketua |
-| Perhitungan Function Point | Estimasi ukuran aplikasi berdasarkan fitur yang direncanakan | Anggota 1 |
-| Product Backlog & Sprint 1 Backlog | Menyusun daftar User Stories dan target Sprint 1 | Anggota 2 |
-| Rancangan UX/UI | Membuat wireframe/mockup mobile: beranda katalog, detail jam & profil twin, keranjang, checkout, dan dashboard twin admin | Anggota 3 |
-| Rancangan Sistem | Membuat flowchart/diagram arsitektur/ERD (users, jam, unit_jam, keranjang, pesanan, detail_pesanan, pembayaran, log_servis) | Ketua/Anggota (dibagi) |
-| Inisialisasi Kode Proyek | Setup struktur folder, project Flutter/Kotlin, dan koneksi awal ke Firebase | Ketua |
+| Project Charter | Menyusun latar belakang, tujuan, ruang lingkup (jam tangan pria & wanita, digital twin per unit), struktur tim | Farhan |
+| Perhitungan Function Point | Estimasi ukuran aplikasi berdasarkan fitur yang direncanakan | Yuda |
+| Product Backlog & Sprint 1 Backlog | Menyusun daftar User Stories dan target Sprint 1 | Rilky |
+| Rancangan UX/UI | Membuat wireframe/mockup mobile: beranda katalog, detail jam & profil twin, keranjang, checkout, dan dashboard twin admin | Rafi |
+| Rancangan Sistem | Membuat flowchart/diagram arsitektur/ERD (users, jam, unit_jam, keranjang, pesanan, detail_pesanan, pembayaran, log_servis) | Farhan |
+| Inisialisasi Kode Proyek | Setup struktur folder, project Flutter/Kotlin, dan koneksi awal ke Firebase | Farhan |
