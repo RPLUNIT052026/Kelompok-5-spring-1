@@ -86,5 +86,5 @@ Pembeli jam tangan sering kesulitan memastikan ketersediaan dan kondisi unit yan
 |------|-----|-------|
 | M Farhan Al Faiz | 240504135 | Ketua / Scrum Master |
 | Muhammad Yuda Buana Ambia | 240504141 | UI/UX Designer |
-| *[Nama Anggota]* | *[NIM]* | Mobile Developer |
-| *[Nama Anggota]* | *[NIM]* | Backend / Database |
+| Muhammad Rilky | 240504147 | Mobile Developer |
+| Rafi Nauval Abiyu | 250504024 | Backend / Database |
