@@ -84,7 +84,7 @@ Pembeli jam tangan sering kesulitan memastikan ketersediaan dan kondisi unit yan
 
 | Nama | NIM | Peran |
 |------|-----|-------|
-| *[Nama Anggota]* | *[NIM]* | Ketua / Scrum Master |
+| M Farhan Al Faiz | 240504135 | Ketua / Scrum Master |
 | *[Nama Anggota]* | *[NIM]* | UI/UX Designer |
 | *[Nama Anggota]* | *[NIM]* | Mobile Developer |
 | *[Nama Anggota]* | *[NIM]* | Backend / Database |
